@@ -1,0 +1,33 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+ipython = "*"
+jupyter = "*"
+jupyterlab = "*"
+
+[packages]
+numpy = "*"
+matplotlib = "*"
+pillow = "*"
+scikit-learn = "*"
+scikit-image = "*"
+scipy = "*"
+h5py = "*"
+eventlet = "*"
+flask-socketio = "*"
+seaborn = "*"
+pandas = "*"
+ffmpeg = "*"
+imageio = "*"
+pyqt5 = "*"
+moviepy = "*"
+opencv-python = "*"
+request = "*"
+tensorflow = "*"
+keras = "*"
+
+[requires]
+python_version = "3.7"
